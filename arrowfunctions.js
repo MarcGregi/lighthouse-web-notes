@@ -4,6 +4,14 @@ function getLength (input) {
 
 var getLength = (input) => input.length
 
+
+
+
+
+
+
+
+
 function addLengths (input1, input2, input3) {
  console.log(“Hello”);
  return input1.length + input2.length + input3.length;
